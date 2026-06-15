@@ -19,9 +19,10 @@ review checklists.
 1. Read [AI Agent Fluency Playbook](AI_AGENT_FLUENCY_PLAYBOOK.md).
 2. Study one section of
    [Spec-Driven Development Drills](SPEC_DRIVEN_DEVELOPMENT_DRILLS.md).
-3. Answer each recall drill without looking at the lesson.
-4. Rewrite one prompt from your actual work.
-5. Review it after 1, 3, 7, 14, and 30 days.
+3. Use the [Prompt Library](prompts/README.md) on a real repository task.
+4. Answer each recall drill without looking at the lesson.
+5. Rewrite one prompt from your actual work.
+6. Review it after 1, 3, 7, 14, and 30 days.
 
 ## Core Workflow
 

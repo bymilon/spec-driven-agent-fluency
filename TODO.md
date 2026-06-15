@@ -12,3 +12,4 @@
 | SAF-008 | Planned | P2 | Maintainer | Add automated Markdown and link validation with pinned dependencies. |
 | SAF-009 | Planned | P2 | Contributor | Review examples for additional vendor neutrality. |
 | SAF-010 | Planned | P2 | Maintainer | Establish a documented release and versioning policy. |
+| SAF-011 | Done | P0 | Maintainer | Add a reusable production-oriented prompt library. |
