@@ -1,0 +1,34 @@
+name: Content correction
+description: Report inaccurate, unclear, inaccessible, or broken material.
+title: "[Correction]: "
+labels:
+  - correction
+body:
+  - type: markdown
+    attributes:
+      value: Thank you for helping improve the guide.
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      description: Provide the file, heading, or link.
+      placeholder: SPEC_DRIVEN_DEVELOPMENT_DRILLS.md, Lesson 08
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: Explain what is inaccurate, unclear, or inaccessible.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence or source
+      description: Link authoritative evidence when the report concerns a factual claim.
+  - type: textarea
+    id: correction
+    attributes:
+      label: Suggested correction
+      description: Propose concise replacement language when possible.

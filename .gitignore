@@ -1,0 +1,13 @@
+# Third-party visual references without redistribution permission
+resources/
+
+# Local editor and operating-system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak
+*~

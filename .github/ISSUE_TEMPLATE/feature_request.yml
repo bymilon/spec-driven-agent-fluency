@@ -1,0 +1,32 @@
+name: Learning improvement
+description: Propose a drill, lesson, workflow, or accessibility improvement.
+title: "[Learning]: "
+labels:
+  - enhancement
+body:
+  - type: textarea
+    id: learner_problem
+    attributes:
+      label: Learner problem
+      description: What difficulty would this change address?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed improvement
+      description: Describe the exercise, explanation, or workflow.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Supporting evidence
+      description: Include authoritative technical or learning-science sources.
+  - type: checkboxes
+    id: originality
+    attributes:
+      label: Rights and originality
+      options:
+        - label: This proposal does not copy unlicensed course or visual material.
+          required: true
