@@ -13,3 +13,4 @@
 | SAF-009 | Planned | P2 | Contributor | Review examples for additional vendor neutrality. |
 | SAF-010 | Planned | P2 | Maintainer | Establish a documented release and versioning policy. |
 | SAF-011 | Done | P0 | Maintainer | Add a reusable production-oriented prompt library. |
+| SAF-012 | Done | P1 | Maintainer | Add a token-efficient telegraphic prompt library. |

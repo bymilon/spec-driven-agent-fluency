@@ -20,9 +20,11 @@ review checklists.
 2. Study one section of
    [Spec-Driven Development Drills](SPEC_DRIVEN_DEVELOPMENT_DRILLS.md).
 3. Use the [Prompt Library](prompts/README.md) on a real repository task.
-4. Answer each recall drill without looking at the lesson.
-5. Rewrite one prompt from your actual work.
-6. Review it after 1, 3, 7, 14, and 30 days.
+4. Use the [Compact Prompt Library](prompts-compact/README.md) when token cost
+   matters and context is already strong.
+5. Answer each recall drill without looking at the lesson.
+6. Rewrite one prompt from your actual work.
+7. Review it after 1, 3, 7, 14, and 30 days.
 
 ## Core Workflow
 

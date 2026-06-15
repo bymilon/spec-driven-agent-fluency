@@ -26,6 +26,8 @@ professional engineering English, and AI coding-agent workflows.
 6. Use plain professional English suitable for non-native speakers.
 7. Keep examples concise, testable, and explicit about constraints and
    validation.
+8. Treat `prompts-compact/` as agent-facing shorthand. Do not copy its
+   telegraphic grammar into learner-facing explanations or community messages.
 
 ## Validation
 
